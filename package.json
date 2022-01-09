@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/ClaySamuelC/Cards/issues"
   },
-  "homepage": "https://github.com/ClaySamuelC/Cards#readme"
+  "homepage": "https://github.com/ClaySamuelC/Cards#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
